@@ -1,0 +1,7 @@
+author: Syed Humza Shah
+description: Hands-on engineering leader. Expertise in backend scalability during hypergrowth. Interested in solving complex technical problems. Passionate about mentorship and organizational culture. Runs on a combination of optimism and pragmatism.
+logo: assets/img/log.jpg
+plugins: ["jekyll-redirect-from", "jekyll-sitemap"]
+theme: jekyll-theme-minimal
+title: Syed Humza Shah
+url: https://humza.sh
